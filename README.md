@@ -3,8 +3,11 @@ It is an Employee Management kind of project where I implemented Spring Boot Bas
 
 DB Config:
 spring.datasource.url=jdbc:h2:mem:employees
+
 spring.datasource.username=admin
+
 spring.datasource.password=admin
+
 spring.h2.console.enabled=true
 
 I created a video on this project in my YouTube channel. Please watch below video for better understanding.
