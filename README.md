@@ -2,6 +2,7 @@
 It is an Employee Management kind of project where I implemented Spring Boot Basic CRUD operations.
 
 DB Config:
+
 spring.datasource.url=jdbc:h2:mem:employees
 
 spring.datasource.username=admin
